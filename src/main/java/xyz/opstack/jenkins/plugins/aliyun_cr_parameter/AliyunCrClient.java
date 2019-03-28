@@ -71,7 +71,7 @@ public class AliyunCrClient {
         }
 
         if (tagsList.size() > listSize) {
-            return tagsList.subList(0, listSize-1);
+            return tagsList.subList(0, listSize);
         }
 
         return tagsList;
