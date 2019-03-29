@@ -21,8 +21,8 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git://github.com/jenkinsci/buildname-parameter-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:jenkinsci/buildname-parameter-plugin.git
+        <connection>scm:git:git://github.com/jenkinsci/aliyun-cr-parameter-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:jenkinsci/aliyun-cr-parameter-plugin.git
         </developerConnection>
         <url>http://github.com/jenkinsci/aliyun-cr-parameter-pluginn</url>
         <tag>HEAD</tag>
