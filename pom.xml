@@ -11,7 +11,7 @@
     <packaging>hpi</packaging>
     <name>Aliyun CR Parameter Plugin</name>
     <version>0.1.0</version>
-    <url>http://wiki.jenkins-ci.org/display/JENKINS/BuildName+Parameter+Plugin</url>
+    <url>http://wiki.jenkins-ci.org/display/JENKINS/Aliyun+Cr+Parameter+Plugin</url>
 
     <properties>
         <java.level>8</java.level>
@@ -50,13 +50,6 @@
             <artifactId>aliyun-java-sdk-core</artifactId>
             <version>4.3.8</version>
         </dependency>
-        <!--
-        <dependency>
-            <groupId>commons-logging</groupId>
-            <artifactId>commons-logging</artifactId>
-            <version>1.2</version>
-        </dependency>
-        -->
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
